@@ -1,0 +1,6 @@
+My TO-DO LIST
+1.Write ticket for today's tasks
+2.learn git using cli
+3. install vs code
+4.make a todo list.
+5. push your txt file to a repo using git cli.
